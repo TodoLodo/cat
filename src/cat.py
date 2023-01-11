@@ -1,12 +1,20 @@
 import sys
 
 
+__version__ = "1.0.0"
+__author__ = "Todo Lodo"
+
+
 class Cat:
     def __init__(self, args):
         self.numbered = False
         self.ending = False
 
         self.n = 0
+
+        if "-v" in args or "--version" in args:
+            print(__version__)
+            exit(0)
 
         if "-n" in args:
             self.numbered = True
