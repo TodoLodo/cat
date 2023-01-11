@@ -1,6 +1,8 @@
 ===
-cat .. image:: src/cat.ico
+cat
 ===
+
+.. image:: src/cat.ico
 
 cat is console based application to print out contents of given files as arguments
 
