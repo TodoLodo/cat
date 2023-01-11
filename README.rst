@@ -5,6 +5,9 @@
 .. |catimg| image:: src/cat.ico
     :width: 48
 
+.. role:: underline
+    :class: underline
+
 cat is console based application to print out contents of given files as arguments
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -74,3 +77,8 @@ Optionally flags can be mentioned separated by spaces for different functionalit
 +-------+---------------------------------------+
 | -E    | Prints "$" at each end of a line      |
 +-------+---------------------------------------+
+
+<style>
+    .underline {
+
+<style>
