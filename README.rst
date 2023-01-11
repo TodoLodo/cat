@@ -40,6 +40,8 @@ Via SourceForge
 .. image:: https://a.fsdn.com/con/app/sf-download-button
     :target: https://sourceforge.net/projects/wincat/files/latest/download
 
+------------------------------------------------------------------------------------------------------------------------
+
 Initiation
 ==========
 
