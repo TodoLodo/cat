@@ -23,6 +23,15 @@ Cloning from git
 Method 2
 --------
 
+Via Github repo zip download
+
+.. image:: https://github.com/TodoLodo/TodoLodo/blob/main/imgs/buttons/GithubDownloadZip%5B276x48%5D.png
+    :target: https://github.com/TodoLodo/cat/archive/refs/heads/main.zip
+
+
+Method 2
+--------
+
 Via SourceForge
 
 .. image:: https://a.fsdn.com/con/app/sf-download-button
