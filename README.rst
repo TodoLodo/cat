@@ -1,5 +1,5 @@
 ============
-cat |catimg|
+|catimg| cat
 ============
 
 .. |catimg| image:: src/cat.ico
