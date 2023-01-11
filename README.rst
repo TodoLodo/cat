@@ -39,3 +39,34 @@ Via SourceForge
 
 .. image:: https://a.fsdn.com/con/app/sf-download-button
     :target: https://sourceforge.net/projects/wincat/files/latest/download
+
+Initiation
+==========
+
+Run ``catToPath.exe`` while selecting yes in the followed prompt window
+
+If any error occurs related to path variable, the bin folder path in the root dir may have to be added to path manually
+
+Usage
+=====
+
+On successful completion of previous steps ``cat`` will be available on the terminal, to confirm run cat with either of the flags ``-v`` or ``--version``
+
+.. code-block:: bash
+
+    cat -v
+
+To print out contents of a file use the following command
+
+.. code-block:: bash
+        cat path\to\fileName.extension
+
+Optionally flags can be mentioned separated by spaces for different functionalities which are list bellow
+
++-------+---------------------------------------+
+| Flag  | Functionality                         |
++=======+=======================================+
+| -n    | Numbers each line in increment order  |
++-------+---------------------------------------+
+| -E    | Prints "$" at each end of a line      |
++-------+---------------------------------------+
