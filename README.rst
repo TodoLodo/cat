@@ -7,6 +7,8 @@
 
 cat is console based application to print out contents of given files as arguments
 
+------------------------------------------------------------------------------------------------------------------------
+
 =============
 Documentation
 =============
@@ -40,7 +42,7 @@ Via SourceForge
 .. image:: https://a.fsdn.com/con/app/sf-download-button
     :target: https://sourceforge.net/projects/wincat/files/latest/download
 
-========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
 
 Initiation
 ==========
